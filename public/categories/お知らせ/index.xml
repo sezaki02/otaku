@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>お知らせ on LTF</title>
+        <link>http://localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+        <description>Recent content in お知らせ on LTF</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 03 Mar 2025 11:13:29 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>コンテンツを移転しました</title>
+        <link>http://localhost:1313/posts/250303/</link>
+        <pubDate>Mon, 03 Mar 2025 11:13:29 +0900</pubDate>
+        
+        <guid>http://localhost:1313/posts/250303/</guid>
+        <description>&lt;p&gt;サイトのトップページに公開していた謎日記ほか、オタク長文をこちらでまとめて管理することにしました。HTMLで管理するのはやっぱり大変だったのと、マークダウンで生成してホスティングサービスを利用するのが運営上一番労力が少なくて足りるという結論に至ったからであり、フォントがNoto Sans JPを入れたはずがたぶんまだ中国語表記なのはいずれ直ると思います。既存の別ブログはこれまで通り映画感想文中心の話題、こちらは「オタク活動でなんか楽しかったよ」的な文章置き場にしたいなと思います。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
