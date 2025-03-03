@@ -32,7 +32,7 @@ title = 'LTF'
       [params.avatar]
         enabled = true
         local = true
-        src = "/img/sakura.png"
+        src = "/img/avatar.png"
 
 
 

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>お知らせ on LTF</title>
-        <link>https://ltfuse.netlify.app/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+        <link>http://localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
         <description>Recent content in お知らせ on LTF</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 03 Mar 2025 11:13:29 +0900</lastBuildDate><atom:link href="https://ltfuse.netlify.app/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 03 Mar 2025 11:13:29 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>コンテンツを移転しました</title>
-        <link>https://ltfuse.netlify.app/posts/250303/</link>
+        <link>http://localhost:1313/posts/250303/</link>
         <pubDate>Mon, 03 Mar 2025 11:13:29 +0900</pubDate>
         
-        <guid>https://ltfuse.netlify.app/posts/250303/</guid>
+        <guid>http://localhost:1313/posts/250303/</guid>
         <description>&lt;p&gt;サイトのトップページに公開していた謎日記ほか、OFUSE等に載せたオタク長文をこちらでまとめて管理することにしました。HTMLで管理するのはやっぱり大変だったのと、マークダウンで生成してホスティングサービスを利用するのが運営上一番労力が少なくて足りるという結論に至ったからであり、フォントがNoto Sans JPを入れたはずがたぶんまだ中国語表記なのはいずれ直ると思います。既存のブログはこれまで通り映画感想文中心の話題、こちらは「オタク活動でなんか楽しかったよ」的な文章置き場にしたいなと思います。&lt;/p&gt;
 &lt;p&gt;最近、好きなサイトの管理人さんが「短文投稿ばかりしているとそれで満足してしまい、ブログなどの長文を書かなくなってしまう」という趣旨のお話をされているのを拝見して「ほんとそうなんだよな〜」と思ったりしています。自分も映画の感想文などをよく「これ面白かった！（以下簡単な感想）あとでブログにまとめます〜」とか投稿するものの、実際はそこで書いたからまあいいか……的な感じでブログには書かないままになったりすることが本当に多いんですよね。SNSとブログって本来用途は違うものだと思うのですが、切り替えて使うのが難しいな！と最近思います。&lt;/p&gt;
 &lt;p&gt;長文だろうが短文だろうが大したことを書いていないのには変わりがないんですが、自分がやりたいと思う方向に寄せてなんか色々やっていけたら良いなと思います（雑すぎ）せっかくなので昔の日記も引っ張ってこれたら良いですね。ぼちぼちやっていきたいです。&lt;/p&gt;
