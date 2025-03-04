@@ -2,6 +2,7 @@
 title = "概念ソング"
 draft = "false"
 date = '2024-08-31T11:13:29+09:00'
+image = "/img/otaku_caution.png"
 tags = ["DR"]
 categories = ["M:I"]
 

@@ -2,24 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on LTF</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://ltfuse.netlify.app/categories/</link>
         <description>Recent content in Categories on LTF</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 03 Mar 2025 11:13:29 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 03 Mar 2025 11:13:29 +0900</lastBuildDate><atom:link href="https://ltfuse.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>お知らせ</title>
-        <link>http://localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+        <link>https://ltfuse.netlify.app/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
         <pubDate>Mon, 03 Mar 2025 11:13:29 +0900</pubDate>
         
-        <guid>http://localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+        <guid>https://ltfuse.netlify.app/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>映画</title>
+        <link>https://ltfuse.netlify.app/categories/%E6%98%A0%E7%94%BB/</link>
+        <pubDate>Sat, 01 Mar 2025 13:27:47 +0900</pubDate>
+        
+        <guid>https://ltfuse.netlify.app/categories/%E6%98%A0%E7%94%BB/</guid>
         <description></description>
         </item>
         <item>
         <title>M:I</title>
-        <link>http://localhost:1313/categories/mi/</link>
+        <link>https://ltfuse.netlify.app/categories/mi/</link>
         <pubDate>Wed, 08 Jan 2025 11:13:29 +0900</pubDate>
         
-        <guid>http://localhost:1313/categories/mi/</guid>
+        <guid>https://ltfuse.netlify.app/categories/mi/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>TEC</title>
+        <link>https://ltfuse.netlify.app/categories/tec/</link>
+        <pubDate>Thu, 18 Jan 2024 15:52:42 +0900</pubDate>
+        
+        <guid>https://ltfuse.netlify.app/categories/tec/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>GAME</title>
+        <link>https://ltfuse.netlify.app/categories/game/</link>
+        <pubDate>Sat, 11 Mar 2023 19:05:15 +0900</pubDate>
+        
+        <guid>https://ltfuse.netlify.app/categories/game/</guid>
         <description></description>
         </item>
         

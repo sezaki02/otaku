@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hugo on LTF</title>
+        <link>https://ltfuse.netlify.app/tags/hugo/</link>
+        <description>Recent content in Hugo on LTF</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 10 Jan 2025 13:43:18 +0900</lastBuildDate><atom:link href="https://ltfuse.netlify.app/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ブログをNetlifyに移行した</title>
+        <link>https://ltfuse.netlify.app/posts/myblogmyhome/</link>
+        <pubDate>Fri, 10 Jan 2025 13:43:18 +0900</pubDate>
+        
+        <guid>https://ltfuse.netlify.app/posts/myblogmyhome/</guid>
+        <description>&lt;p&gt;ブログをロリポップでの運用から移行し、Netlifyでのホスティングに変更しました。もともと最初からGitHub PagesかNetlifyで動かすつもりだったのですが、使うのが初めてすぎて何もかもうまくいかず、諦めてFTPで全てをアップロードするという暴挙に出た次第でした。&lt;/p&gt;
+&lt;p&gt;先日独自ドメインの契約更新のお知らせが届いたのを期に、このブログもぼちぼち費用をかけずに運用する方向にシフトさせていく頃合いかと思い、非常〜〜〜に重い腰をあげて移転作業を行いました。&lt;/p&gt;
+&lt;p&gt;ま〜今度もやっぱりうまくできませんでしたね！思えば最も最初に導入したHugoだったので、おそらく当初からなにか自分の作業でうまくないことが起きていたんだと思います。その後に導入した他のブログは問題ないのに、このブログだけ一生デプロイに失敗していたので……。&lt;/p&gt;
+&lt;p&gt;改めておかしな点を色々修正していった結果homeInfoParams（トップページの紹介文部分）がどうやっても表示されず。ない知恵を絞っても解決策を見つけ出すことができなかったため、このブログは諦めて新規で１から作り直しました。でもまあこういう時マークダウンで管理していると記事もすぐに移し替えられるから便利ですね。&lt;strong&gt;最初からそうすればよかった&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;楽しくて便利なサービスがたくさんある昨今、わざわざ「自分のブログ」に拘る理由も（今の自分の気持ちとしては）そんなにないのかなと思わなくもないのですが、SNS的な場所と違って自分の書いたものしかないところというのもホッとするんですよね。広告の表示有無も自分で選べるしね。書く場所も「ここだけ！」と絞ることなく、気が向いた時に好きなところを使うのが自分に合っているとも思うので、そんな感じでこのブログは引き続き細々と運営していきます。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Hugoを導入してみる</title>
+        <link>https://ltfuse.netlify.app/posts/my-first-post-2/</link>
+        <pubDate>Fri, 10 Mar 2023 12:24:05 +0900</pubDate>
+        
+        <guid>https://ltfuse.netlify.app/posts/my-first-post-2/</guid>
+        <description>&lt;p&gt;最近訪問先のブログがHugoを利用していることが多く、気になったので自分も導入してみることにした。元々がHTML手打ちから始めた身としては、ローカルで管理編集できるのが何よりいい。生成も早い。一旦構築してしまえばあとは記事を書いて流していくだけだ。細かい調整はまだだが、これからやっていく。&lt;/p&gt;
+&lt;p&gt;作成にあたり参考にさせて頂いた本がとても良かったので、以下。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://nextpublishing.jp/book/12720.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugoで始める静的サイト構築入門　静的サイトジェネレーターで作る自作サイト&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
