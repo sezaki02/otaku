@@ -5,3 +5,4 @@ draft: true
 weight: 1
 ---
 洋画と洋ゲーが好きなオタクのインターネットです。ラーメン店のクーポンをいつも持ち歩いている。Ben H. Wintersのファンです。/ 瀬崎
+draft: true

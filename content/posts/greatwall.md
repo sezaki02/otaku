@@ -1,7 +1,7 @@
 ---
 title: "The Great Wall"
 date: 2024-07-24T17:48:53+09:00
-draft: false
+draft: true
 ShowBreadCrumbs: true
 tags: ["洋画"]
 categories: ["映画"]
@@ -56,3 +56,4 @@ categories: ["映画"]
 
 
 なんか色々書いてしまったのですが色々書いてしまう程度にはだいぶ面白かったです。時間も90分程度で見やすいので、ぜひどうぞ！！
+draft: true

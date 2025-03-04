@@ -1,7 +1,7 @@
 ---
 title: "エドワード・ヤンの恋愛時代（4Kレストア版）"
 date: 2023-08-30T11:32:36+09:00
-draft: false
+draft: true
 ShowBreadCrumbs: true
 tags: ["台湾映画"]
 categories: ["映画"]
@@ -24,3 +24,4 @@ categories: ["映画"]
 修復前・後のフィルム比較画像が掲載されている記事を発見したので貼っておきます。
 
 [台灣名導楊德昌《獨立時代》修復版於威尼斯首映，遺孀彭鎧立：「導演想表達的，是比台北更深的含義」](https://www.thenewslens.com/amparticle/172922)
+draft: true

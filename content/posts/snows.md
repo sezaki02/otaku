@@ -1,7 +1,7 @@
 ---
 title: "Snow Shark: Ancient Snow Beast"
 date: 2023-09-25T11:38:06+09:00
-draft: false
+draft: true
 ShowBreadCrumbs: true
 tags: ["洋画", "サメ映画"]
 categories: ["映画"]
@@ -52,3 +52,4 @@ categories: ["映画"]
 というかそもそもこの映画頻繁に「作戦を立てよう」みたいなこと言うんだけど、なんらかの作戦に則った行動が取られた形跡は一度もないです。
 
 そんなグダグダ・サメ映画。秋の鑑賞にいかがでしょうか。
+draft: true

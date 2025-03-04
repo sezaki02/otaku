@@ -2,7 +2,7 @@
 title: "Hugoを導入してみる"
 archives: ["2023/03"]
 date: 2023-03-10T12:24:05+09:00
-draft: false
+draft: true
 ShowBreadCrumbs: true
 tags: ["note","hugo"]
 ---
@@ -12,3 +12,4 @@ tags: ["note","hugo"]
 作成にあたり参考にさせて頂いた本がとても良かったので、以下。
 
 [Hugoで始める静的サイト構築入門　静的サイトジェネレーターで作る自作サイト](https://nextpublishing.jp/book/12720.html)
+draft: true

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>年間ベスト on LTF</title>
-        <link>https://ltfuse.netlify.app/tags/%E5%B9%B4%E9%96%93%E3%83%99%E3%82%B9%E3%83%88/</link>
+        <link>http://localhost:1313/tags/%E5%B9%B4%E9%96%93%E3%83%99%E3%82%B9%E3%83%88/</link>
         <description>Recent content in 年間ベスト on LTF</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 10 Jan 2025 11:13:29 +0900</lastBuildDate><atom:link href="https://ltfuse.netlify.app/tags/%E5%B9%B4%E9%96%93%E3%83%99%E3%82%B9%E3%83%88/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 10 Jan 2025 11:13:29 +0900</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%B9%B4%E9%96%93%E3%83%99%E3%82%B9%E3%83%88/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>配信で見たベスト10・2024</title>
-        <link>https://ltfuse.netlify.app/posts/2024best/</link>
+        <link>http://localhost:1313/posts/2024best/</link>
         <pubDate>Fri, 10 Jan 2025 11:13:29 +0900</pubDate>
         
-        <guid>https://ltfuse.netlify.app/posts/2024best/</guid>
+        <guid>http://localhost:1313/posts/2024best/</guid>
         <description>&lt;p&gt;これ2024年内にやれなかったのだいぶ「あーあ」って感じなんですけど（？）とりあえずまとめておきます。どれも面白い・素敵な作品なので「今年は家でなに見よっかな〜」という方の参考になれば幸いです。&lt;/p&gt;
 &lt;h3 id=&#34;名探偵ポアロベネチアの亡霊-2023&#34;&gt;①名探偵ポアロ：ベネチアの亡霊 (2023)
 &lt;/h3&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
@@ -113,39 +113,8 @@
 &lt;p&gt;カウリスマキ監督のこの……途方もなく地味なのに途方もなく心に染み入る作品、全てが優勝。ところで「枯れ葉」まだ見てないのでこれから見ます。&lt;/p&gt;
 &lt;h3 id=&#34;おわりに&#34;&gt;おわりに
 &lt;/h3&gt;&lt;p&gt;年間の総まとめとしてベストを選出するといつもそうなんですが「楽しかった！！！」という印象の強いものが並ぶなあと思いました。
-劇場に行くと結構シリアスな作品を見がちなんですが、家で見る時はなんか気分が落ち込んでいたりして「楽しい映画見て明るい気持ちになりたいな〜」ってなることが多い気がします。そんな時もいつもそばにいてくれるのが映画ですね。2025年も楽しい映画をたくさん見ていきたいです！！&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>今年見た旧作5選・2023</title>
-        <link>https://ltfuse.netlify.app/posts/2023best90min/</link>
-        <pubDate>Thu, 28 Dec 2023 22:55:22 +0900</pubDate>
-        
-        <guid>https://ltfuse.netlify.app/posts/2023best90min/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://ltfuse.netlify.app/img/2023movies.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Ive been watched in 2023&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;今年映画館で見た３選はてがろぐでやったので、とりあえず今年見た旧作特に好きな5本（90分以上）を記録しておきます。&lt;/p&gt;
-&lt;h2 id=&#34;凱里ブルース&#34;&gt;凱里ブルース
-&lt;/h2&gt;&lt;p&gt;過去と未来と現在がシームレスな円環で繋がっていて、とてつもないクオリティの明晰夢を見せられている感じでした。じっくりもう一回見たいです。&lt;/p&gt;
-&lt;h2 id=&#34;ザロストシティ&#34;&gt;ザ・ロストシティ
-&lt;/h2&gt;&lt;p&gt;劇場で見たかったけど見れなかったやつ。悪役ラドクリフがめちゃくちゃイキイキしていて良かったです。サンドラブロックも一生やかましくて良かった。チャニングテイタムはそこにいるだけで笑えるし、ブラピの無駄遣いすぎて全てが最高だった。&lt;/p&gt;
-&lt;h2 id=&#34;名探偵コナン迷宮の十字路&#34;&gt;名探偵コナン　迷宮の十字路
-&lt;/h2&gt;&lt;p&gt;せやかて工藤さんの忘れられない初恋のあの子。コナン映画全作は見ていないのですが、見た中では一番好きかもしれない。講談社ミステリあたりからノベライズ出して頂きたい質実剛健ミステリーロマンスだと思いました。&lt;/p&gt;
-&lt;h2 id=&#34;ジャックリーチャーnever-go-back&#34;&gt;ジャック・リーチャー　NEVER GO BACK
-&lt;/h2&gt;&lt;p&gt;以前１を見た時に、自分的にはそこまで刺さらなかったので「２か…」と思ってずっと手をつけてこなかったのですが、いざ見てみたら信じられないくらい面白かったし最後はずっと泣いていた。女性陣がみんな最高すぎる。あとトムの脚はいついかなる時も安定のかっこよさだな…と思いました。&lt;/p&gt;
-&lt;h2 id=&#34;ウィジャシャーク&#34;&gt;ウィジャ・シャーク
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://cinemahole.blue/posts/os/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;感想文記事はこちら&lt;/a&gt;。ただ低クオリティサメ映画を見たくて見始めたのに「&lt;strong&gt;あの世でオカルト殺法対決&lt;/strong&gt;」とかいう誰も想像しなかった斜め上の展開をやり始めたのは卑怯すぎたのでベスト５に入れます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;以上です。10本にするとまた全体の毛色が変わってくるのかなと思うのですが、ベスト5に絞ると今年は楽しい映画をよく見たし、楽しい映画の楽しさが印象に残っているんだなと改めて思います。&lt;/p&gt;
+劇場に行くと結構シリアスな作品を見がちなんですが、家で見る時はなんか気分が落ち込んでいたりして「楽しい映画見て明るい気持ちになりたいな〜」ってなることが多い気がします。そんな時もいつもそばにいてくれるのが映画ですね。2025年も楽しい映画をたくさん見ていきたいです！！
+draft: true&lt;/p&gt;
 </description>
         </item>
         

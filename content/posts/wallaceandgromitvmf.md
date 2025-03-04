@@ -1,7 +1,7 @@
 ---
 title: "Wallace & Gromit: Vengeance Most Fowl"
 date: 2025-01-14T11:56:15+09:00
-draft: false
+draft: true
 ShowBreadCrumbs: true
 tags: ["洋画"]
 categories: ["映画"]
@@ -36,3 +36,4 @@ categories: ["映画"]
 ### ブラボー・エコー・ワンワン（犬）を目撃しよう！
 
 とにかくグルミットがかっこよかったですね！数々のアクションに知略、まさにイーサン・ハントくんばりの活躍です。「ひつじのショーン」の牧場主さんもチラリと出演があったり、最後までずっと楽しい映画でした。なんにせよ新作！ありがたい〜〜！！
+draft: true
