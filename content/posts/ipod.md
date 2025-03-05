@@ -1,7 +1,8 @@
 ---
 title: "iPhoneをiPodにする"
 date: 2023-10-30T09:17:31+09:00
-draft: true
+image: "/img/thinking.png"
+draft: false
 ShowBreadCrumbs: true
 tags: ["gadget"]
 categories: ["TEC"]
@@ -36,4 +37,3 @@ categories: ["TEC"]
 そんなこんなでiPhoneのiPod化、今のところは問題なく使えています。機種の問題で容量が少ないのが懸念している点ではありますが、そこは追々考えていけばいいかなあと思っています。
 
 九年振りに「セッション」のアルバムを聴いていますが、久々に映画も見たくなってきたよ。
-draft: true

@@ -1,7 +1,8 @@
 ---
 title: "iPhoneの新機能・Journalを試してみた"
 date: 2024-01-18T15:52:42+09:00
-draft: true
+draft: false
+image: "/img/thinking.png"
 ShowBreadCrumbs: true
 tags: ["App"]
 categories: ["TEC"]
@@ -31,4 +32,3 @@ categories: ["TEC"]
 ![Journal](/img/img_journal.jpeg)
 
 自分は試しに今日聴いた音楽を記録してみました。これも年末になればiTunesが「今年の再生回数ベスト」とかを出してくれるので逐一記録してなにかメリットがある……というわけでもないんですが、あとでジャーナルを見返して「この時期はこんな曲を聴いていたんだな」と思い出しても楽しそうなので、気が向いたら書き留めてみたいと思います。
-draft: true
